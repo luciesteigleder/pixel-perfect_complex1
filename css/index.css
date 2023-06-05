@@ -17,6 +17,7 @@ li {
 .interface-area h1 {
   font-family: "Playfair", serif;
   font-size: 55px;
+  padding-bottom: 45px;
 }
 .interface-area hr {
   color: #FEFEFE;
@@ -25,7 +26,7 @@ li {
   display: flex;
   flex-direction: row;
   font-family: "Barlow", sans-serif;
-  font-size: 20px;
+  font-size: 24px;
   align-items: center;
   margin-top: 40px;
 }
